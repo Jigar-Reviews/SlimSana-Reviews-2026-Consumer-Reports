@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jigar-reviews.github.io/SlimSana-Reviews-2026-Consumer-Reports/sitemap.xml
